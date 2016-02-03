@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "minimist": "^1.2.0",
-    "tile-reduce": "^3.0.0"
+    "tile-reduce": "^3.0.0",
+    "turf-inside": "^1.1.4"
   }
 }
